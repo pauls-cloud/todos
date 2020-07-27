@@ -1,0 +1,30 @@
+.color{
+    background-color: rgb(13, 89, 177);
+}
+.fa-pencil{
+    font-size: 1.2rem;
+}
+.li{
+    border:2px solid rgb(71, 107, 122);
+    border-radius: 5px;
+    background-color: rgb(96, 168, 201);
+    color:white;
+}
+.text{
+    color: rgb(89, 109, 148);
+}
+.remove{
+    position: absolute;
+    right:15px;
+    color: rgb(71, 107, 122);
+    font-size: 20px;
+    font-weight: bolder;
+    text-align: center;
+}
+.remove:hover {
+    text-decoration: none;
+    cursor :pointer;
+  }
+  .li:hover{
+     background-color: rgb(98, 160, 202);
+  }
